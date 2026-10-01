@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "steam-scout": {
+      "command": "uvx",
+      "args": ["--from", "git+https://github.com/<your-github-username>/steam-scout-mcp", "steam-scout-mcp"]
+    }
+  }
+}
